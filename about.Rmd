@@ -1,0 +1,26 @@
+---
+title: "About this blog"
+description: |
+  Some additional details about the blog
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Disclaimer
+
+I am accountable for all opinions and errors in this blog. No blame or responsiblity rests with my employer or anybody else mentioned therein.
+
+## Who are you?
+
+Hiya, I'm Russell.  I live in Dallas, TX with my significant other and two kids.  I enjoy hiking, games (video & board), and would love to get out and go scuba diving again before too long.  I am a Principal Applied Scientist/Data Scientist at [Zapier](https://zapier.com/jobs/). At Zapier I've created, and lead, their Insights Foundations (InFo) group.  InFo job is to catalyze and empower a vibrant and powerful insights community through common research, tooling, processes, and institutions.  In practice, this means we run a couple of educational forums, serve as a liasion to Data Engineering/Data Warehouse Engineering, and help out with difficult statistical, experimental design, and engineering problems.
+
+## What's this blog?
+
+A dumping ground for things I want to ask about or say things about. Most often that is data science, statistics, or data engineering.
+
+## How can I get in touch with you?
+
+The best way is to come to work with me at [Zapier](https://zapier.com/jobs/).  Beyond that, your best shot is to reach me via [twitter](https://twitter.com/RussellSPierce).
+
